@@ -1,6 +1,6 @@
 {
-    "name": "tymon/jwt-auth",
-    "description": "JSON Web Token Authentication for Laravel and Lumen",
+    "name": "hungthai1401/jwt-auth",
+    "description": "JSON Web Token Authentication for Laravel and Lumen (fork from tymon/jwt-auth)",
     "keywords": [
         "auth",
         "authentication",
@@ -8,10 +8,10 @@
         "jwt",
         "laravel"
     ],
-    "homepage": "https://github.com/tymondesigns/jwt-auth",
+    "homepage": "https://github.com/hungthai1401/jwt-auth",
     "support": {
-        "issues": "https://github.com/tymondesigns/jwt-auth/issues",
-        "source": "https://github.com/tymondesigns/jwt-auth"
+        "issues": "https://github.com/hungthai1401/jwt-auth/issues",
+        "source": "https://github.com/hungthai1401/jwt-auth"
     },
     "license": "MIT",
     "authors": [
@@ -19,6 +19,12 @@
             "name": "Sean Tymon",
             "email": "tymon148@gmail.com",
             "homepage": "https://tymon.xyz",
+            "role": "Author"
+        },
+        {
+            "name": "Thai Nguyen Hung",
+            "email": "hungthai1401.it@gmail.com",
+            "homepage": "https://hungthai1401.github.io/resume",
             "role": "Developer"
         }
     ],
